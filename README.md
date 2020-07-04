@@ -1,4 +1,5 @@
 # Kaggle-Housing-Price-Analysis
+- Secured **Top 4% rank (1302) out of 39,000 competitors.**
 - In this repo, I have tried to work on large scale data analysis. 
 
 ### Major steps included:
@@ -9,5 +10,6 @@
  - Finding outliers for Numerical data.
  - Removing columns with more than 96% same record both for Numerical/Cateogrical Data.
  - Removing columns with high multicollinearity, so that they dont affect our predictions further.
+ 
  
  
